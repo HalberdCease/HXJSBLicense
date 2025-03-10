@@ -1,9 +1,9 @@
-### 616 SB License
-This is a license forked from MIT apply to the person who dislikes 616.  
+### HXJ SB License
+This is a license forked from MIT apply to the person who dislikes He Xiaojun.  
 What's the SB meaning? If you don't know, please ref the [link](https://www.quora.com/What-is-meant-by-SB-in-Chinese).
 
 ### The New Terms
-> 1\. The person should speak loudly with "616 SB!",   
+> 1\. The person should speak loudly with "He Xiaojun SB!",   
 before using this Software.
 
 ### How To Use
@@ -11,4 +11,7 @@ before using this Software.
  - Modify the `[year]` and `[fullname]` to yours.
 
 ### License
-Licensed under `616 SB License`.
+Licensed under `He Xiaojun SB License`.
+
+### Thanks
+Inspiration from [616 SB License](https://github.com/Arcaea-Infinity/616SBLicense)。
