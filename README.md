@@ -11,7 +11,7 @@ before using this Software.
  - Modify the `[year]` and `[fullname]` to yours.
 
 ### License
-Licensed under `He Xiaojun SB License`.
+Licensed under `HXJ SB License`.
 
 ### Thanks
 Inspiration from [616 SB License](https://github.com/Arcaea-Infinity/616SBLicense)。
